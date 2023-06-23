@@ -21,4 +21,4 @@
 ![Screenshot (23)](https://github.com/ketan1902/Golang-Doctors-Appointment-Manager/assets/79464069/466d4f0a-8feb-4adf-bd63-95b71037769f)
 
 # We can add number of appointments
-![Screenshot (25)](https://github.com/ketan1902/Golang-Doctors-Appointment-Manager/assets/79464069/cfc8c73b-9e1f-4afb-b769-889c95c442c5)
+![Screenshot (26)](https://github.com/ketan1902/Golang-Doctor-s-Appointment-Manager/assets/79464069/5f27a6ae-2897-44b3-9cca-07f6bc8b0898)
