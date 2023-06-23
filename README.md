@@ -1,4 +1,4 @@
-# Goalng-Doctor's-Appointment-Manager
+# Golang-Doctor's-Appointment-Manager
 
 # Adding new appointments
 ![Screenshot (16)](https://github.com/ketan1902/Golang-Doctors-Appointment-Manager/assets/79464069/20071a7e-15da-4b3e-8938-5d6d86184e12)
